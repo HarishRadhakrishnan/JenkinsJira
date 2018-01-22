@@ -1,0 +1,8 @@
+LogFolder##D:/Androidapps
+Jiraissuetypename##Bug
+Jiraprojectkey##AD
+JiraBaseURL##https://mtdevopscoe.atlassian.net
+JiraCreateIssueURI##/rest/api/2/issue
+JiraGetProjectsURI##/rest/api/2/project
+JiraUserName##Harish.Radhakrishnan@mindtree.com
+JiraPassword##Welcome123
